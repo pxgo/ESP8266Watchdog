@@ -10,8 +10,8 @@ const char* broadcastIP = "255.255.255.255";
 const int port = 9;
 
 const int RELAY_PIN = 2;
-const char* WIFI_NAME = "MI_PI";
-const char* WIFI_PASSWORD = "3.1415926+";
+const char* WIFI_NAME = "********";
+const char* WIFI_PASSWORD = "*******";
 const int MONITOR_SPEED = 9600;
 const int SERVER_PORT = 80;
 
